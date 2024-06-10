@@ -1,0 +1,43 @@
+PODS:
+  - Alamofire (5.7.1)
+  - Flutter (1.0.0)
+  - flutter_nuvei_simply_connect_test (1.1.2):
+    - Alamofire (= 5.7.1)
+    - Flutter
+    - SDWebImage (= 5.15.7)
+    - SwiftyJSON (= 5.0.1)
+    - TinyConstraints (= 4.0.2)
+  - SDWebImage (5.15.7):
+    - SDWebImage/Core (= 5.15.7)
+  - SDWebImage/Core (5.15.7)
+  - SwiftyJSON (5.0.1)
+  - TinyConstraints (4.0.2)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_nuvei_simply_connect_test (from `.symlinks/plugins/flutter_nuvei_simply_connect_test/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SDWebImage
+    - SwiftyJSON
+    - TinyConstraints
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_nuvei_simply_connect_test:
+    :path: ".symlinks/plugins/flutter_nuvei_simply_connect_test/ios"
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  flutter_nuvei_simply_connect_test: 164ae612322be00196a0364620451ac5a4f05622
+  SDWebImage: 25bac438318faf37e35650619ebc288a9061d292
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  TinyConstraints: 7b7ccc0c485bb3bb47082138ff28bc33cd49897f
+
+PODFILE CHECKSUM: a67efa595229ebe3a5a2ddd994c907006e065118
+
+COCOAPODS: 1.15.2
